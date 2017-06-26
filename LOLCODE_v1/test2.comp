@@ -1,0 +1,7 @@
+// list of integers
+get X;
+while (1 <= X)
+{
+put X;
+X = X - 1;
+}
