@@ -1,2 +1,2 @@
 # LOLCODE Compiler
-I made a compiler to translate simple1 language to LOLCODE. LOLCODE is an esoteric programming language inspired by LOLSPEAK, a broken form of English used to caption the pervasive LOLCAT meme. It has a wide variety of application domains because it was designed to be a general purpose language. In that regard, it is similar to languages like Java and C++. That said, nobody in their right mind would program anything intensive in LOLCODE, but it's a fun language to make small programs with and show off to your friends. Please see the images for proof that it works.
+I made a compiler to translate simple1 language to LOLCODE.
